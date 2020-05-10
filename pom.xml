@@ -14,10 +14,6 @@
     <name>forum</name>
     <description>Forum kursantów TEB Edukacja</description>
 
-    <properties>
-        <java.version>11</java.version>
-    </properties>
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
